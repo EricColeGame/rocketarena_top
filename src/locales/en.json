@@ -1,6 +1,6 @@
 {
   "site": {
-    "name": "Rocket Arena Wiki",
+    "name": "rocketarena Wiki",
     "shortName": "Rocket Arena",
     "tagline": "Heroes, Builds & Guides",
     "description": "Rocket Arena Wiki provides hero guides, gameplay tips, abilities, builds, maps, and competitive strategies to help players master EA's rocket combat arena shooter.",
@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn blast meter mechanics, rocket jumping fundamentals, and aerial recovery to survive explosive arena combat."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Hero Selection",
+          "description": "Find the ideal starter champion among Jayto, Amphora, and Blastbeard to fit your preferred playstyle."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Combat & Blast Meter",
+          "description": "Understand knockback escalation, avoid Megablast knockouts, and coordinate high-damage team volleys."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Rocket Arena."
+          "title": "Artifacts & Loadouts",
+          "description": "Equip competitive artifact combinations to boost movement speed, dodge recovery, and KO survival."
         }
       ]
     },
@@ -62,237 +62,305 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Heroes",
+        "Combat Guide",
+        "Game Modes",
+        "Artifacts"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Master projectile physics, blast meters, and recovery tactics for Rocket Arena.",
+          "href": "/guide/rocket-arena-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Combat",
+          "title": "Combat Mechanics",
+          "description": "Learn blast meter scaling, direct impact aiming, and aerial dodge recoveries.",
+          "href": "/mechanics/rocket-arena-combat"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Heroes",
+          "title": "Hero Roster",
+          "description": "Explore abilities, playstyles, and strategies for Jayto, Blastbeard, Amphora, and more.",
+          "href": "/characters/rocket-arena-heroes"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Modes",
+          "title": "Game Modes",
+          "description": "Rules and winning strategies for Knockout, Megarocket, Rocketball, and Treasure Hunt.",
+          "href": "/modes/rocket-arena-game"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Items",
+          "title": "Artifacts & Items",
+          "description": "Complete guide to tactical battlefield pickups and competitive artifact loadouts.",
+          "href": "/items/rocket-arena-item-guide"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Maps",
+          "title": "Arena Maps",
+          "description": "Navigate Boom Kingdom, Gemstone Jungle, and Crater arenas with tactical layouts.",
+          "href": "/maps/rocket-arena-maps"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Rocket Arena?",
       "paragraphs": [
-        "Rocket Arena is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Rocket Arena is an explosive 3v3 hero shooter developed by Final Strike Games and published by Electronic Arts. Set in the vibrant world of Crater, players compete in fast-paced arena battles where traditional bullets are replaced by a diverse arsenal of rockets, abilities, and dynamic movement mechanics.",
+        "Instead of health bars and fatal headshots, Rocket Arena features an escalating Blast Meter system inspired by platform brawlers. Accumulate damage to launch rivals clean out of the arena with Megablasts, customize your champions with powerful artifacts, and master team-oriented game modes."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Final Strike Games"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Publisher",
+          "value": "Electronic Arts"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "3v3 Hero Shooter"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Platforms",
+          "value": "PC, PS4, Xbox One"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Heroes",
+          "value": "10+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Game Modes",
+          "value": "5 Modes"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore Rocket Arena Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Rocket Arena",
+      "description": "Everything you need to master heroes, maps, artifacts, and game modes in Rocket Arena.",
       "modules": [
         {
           "order": 1,
-          "name": "Rocket Arena Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/rocket-arena-codes",
-          "displayType": "code-box",
+          "name": "rocketarena Heroes",
+          "description": "Introduce all playable heroes with their unique rockets, abilities, playstyles, and customization options. Discover strengths and tactics for every champion in Crater.",
+          "href": "/characters/rocket-arena-heroes",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Amphora",
+              "detail": "Hydro-powered skirmisher specializing in fast water torpedoes and high-mobility escape."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Jayto",
+              "detail": "All-around duelist with cluster rockets and Swarm ability for heavy burst damage."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Blastbeard",
+              "detail": "Heavy tank brawler delivering concussive cannonballs and anti-projectile shockwaves."
+            },
+            {
+              "label": "Kayi",
+              "detail": "Precision sharpshooter firing charged Snow Crash bolts with protective ice domes."
+            },
+            {
+              "label": "Plink",
+              "detail": "High-mobility hit-and-run specialist with rapid-fire needle rockets and teleporters."
+            },
+            {
+              "label": "Boone",
+              "detail": "Long-range sniper firing cluster mortars and vortex blasts to disrupt enemy ranks."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
+          "name": "rocketarena Beginner Guide",
+          "description": "Provide new player guidance covering basic controls, rocket combat mechanics, dodging, movement, aiming, and important beginner strategies.",
           "href": "/guide/rocket-arena-beginner-guide",
-          "displayType": "feature-cards",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Learn Blast Meter thresholds from safe blue to danger red before facing opponents."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Master rocket jumping and air dodging to recover back onto the stage after hits."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Pick an accessible starter hero like Jayto or Amphora to practice projectile timing."
+            },
+            {
+              "label": "4",
+              "detail": "Lead your shots ahead of moving targets rather than aiming directly at current hitboxes."
+            },
+            {
+              "label": "5",
+              "detail": "Collect neutral item pickups across the map to gain shields, speed, or tactical bombs."
+            },
+            {
+              "label": "6",
+              "detail": "Coordinate with teammates to focus fire redlined targets for clean Megablast knockouts."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/rocket-arena-tier-list",
-          "displayType": "tier-grid",
+          "name": "rocketarena Game Modes",
+          "description": "Explain each game mode including Knockout, Rocketball, Mega Rocket, Treasure Hunt, and cooperative modes. Include objectives, winning strategies, and recommended team approaches.",
+          "href": "/modes/rocket-arena-game",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Knockout",
+              "detail": "Classic 3v3 team deathmatch where squads score points by triggering Megablasts on rivals."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Megarocket",
+              "detail": "King of the Hill capture mode where teams contest falling rocket zones across the map."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Rocketball",
+              "detail": "High-velocity sports mode where players pass, carry, or shoot the ball into enemy goals."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Treasure",
+              "detail": "Two-phase mode involving holding a gold chest followed by collecting scattered coins."
+            },
+            {
+              "label": "Bot Attack",
+              "detail": "Cooperative PvE survival mode battling waves of Rocketbots alongside your squad."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/rocket-arena-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "rocketarena Maps Guide",
+          "description": "Showcase arena maps from the world of Crater with map layouts, special mechanics, environmental features, and gameplay tips.",
+          "href": "/maps/rocket-arena-maps",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Boom Town",
+              "detail": "Urban layout featuring elevated train tracks, tight alleyways, and rapid vertical climbs."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Gemstone",
+              "detail": "Dense jungle terrain with ancient ruins, concealed drop points, and vertical jump pads."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Zephyr",
+              "detail": "Flying airship arena with hazardous wind currents, moving platforms, and narrow ledges."
+            },
+            {
+              "label": "Crater",
+              "detail": "High-altitude coastal cliffs offering wide lines of sight ideal for sniper archetypes."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/rocket-arena-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "rocketarena Artifacts Guide",
+          "description": "Cover artifacts, stat boosts, and gameplay-changing equipment choices. Explain how different artifacts affect hero builds and combat strategies.",
+          "href": "/items/rocket-arena-item-guide",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Blast Proof",
+              "detail": "Reduces damage taken and knockback distance from enemy explosions by up to 15%."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Speed Boots",
+              "detail": "Boosts baseline ground movement speed and sprint acceleration across all arenas."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Dodge Master",
+              "detail": "Shortens air dodge cooldown and extends temporary invulnerability frames."
+            },
+            {
+              "label": "Quick Return",
+              "detail": "Accelerates recovery speed when returning to the stage after entering Danger status."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/rocket-arena-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "rocketarena Tier List",
+          "description": "Create a community-style hero ranking based on available hero abilities, competitive usefulness, and different game modes.",
+          "href": "/characters/rocket-arena-heroes",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "S",
+              "detail": "Amphora, Jayto - Top-tier survivability, unmatched aerial mobility, and high burst damage."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "A",
+              "detail": "Blastbeard, Kayi, Plink - Exceptional objective denial, precision poke, and swift escapes."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "B",
+              "detail": "Boone, Topnotch, Izell - Strong zoning and heavy crowd control, but vulnerable to rushdowns."
+            },
+            {
+              "label": "C",
+              "detail": "Mysteen, Rev, Leef - High execution ceiling requiring precise squad coordination."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "rocketarena Characters Builds",
+          "description": "Provide recommended hero setups including artifacts, playstyles, and strategies for different match situations.",
+          "href": "/mechanics/rocket-arena-combat",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Duelist",
+              "detail": "Boosts rocket impact damage and cooldown reduction for aggressive frontline brawlers."
+            },
+            {
+              "label": "Survivor",
+              "detail": "Combines blast resistance and enhanced air dodges for durable objective holders."
+            },
+            {
+              "label": "Sniper",
+              "detail": "Maximizes projectile speed and long-range damage for precision marksmen like Kayi."
+            },
+            {
+              "label": "Speedster",
+              "detail": "Optimizes sprint speed and jump height for agile Rocketball runners like Plink."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "rocketarena Updates And News",
+          "description": "Collect official announcements, launch information, seasonal content, and important game updates.",
+          "href": "/modes/rocket-arena-season-1",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Season 1",
+              "detail": "Introduced hero Flux, Crater Tour events, new maps, and the inaugural Blast Pass."
+            },
+            {
+              "label": "Season 2",
+              "detail": "Added hero Leef, Heroes playlist changes, balance adjustments, and new cosmetics."
+            },
+            {
+              "label": "Ranked",
+              "detail": "Competitive ranked playlists launched with tier divisions and exclusive seasonal badges."
+            },
+            {
+              "label": "Crossplay",
+              "detail": "Full cross-platform play supported across PC, PlayStation 4, and Xbox One."
             }
           ]
         }
@@ -300,27 +368,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Rocket Arena.",
+      "description": "Quick answers to common questions about Rocket Arena mechanics, heroes, and game modes.",
       "items": [
         {
           "question": "What is Rocket Arena?",
-          "answer": "Rocket Arena is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Rocket Arena is a 3v3 hero-based shooter developed by Final Strike Games and published by Electronic Arts. Players battle in vibrant arenas using customizable champions armed with unique rocket launchers and abilities."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How does combat work in Rocket Arena?",
+          "answer": "Rocket Arena replaces traditional health bars with a dynamic Blast Meter. Taking damage fills your meter, making you fly further when hit until a critical strike causes a Megablast knockout."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Which heroes are best for Rocket Arena beginners?",
+          "answer": "Jayto and Amphora are the best starter choices in Rocket Arena due to their versatile weapons, straightforward abilities, and reliable aerial recovery tools."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What game modes are available in Rocket Arena?",
+          "answer": "Rocket Arena includes competitive modes such as Knockout, Megarocket, Rocketball, and Treasure Hunt, along with cooperative Rocketbot Attack."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What are Artifacts in Rocket Arena?",
+          "answer": "In Rocket Arena, Artifacts are pre-match loadout items that grant passive combat advantages like blast damage reduction, faster movement, or quicker dodge cooldowns."
         }
       ]
     },
@@ -337,7 +405,6 @@
     "activeCodes": "Active Codes",
     "updated": "Updated",
     "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
@@ -347,7 +414,8 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "playOnEa": "Play on EA / Steam"
   },
   "footer": {
     "aboutTitle": "Rocket Arena Wiki",
