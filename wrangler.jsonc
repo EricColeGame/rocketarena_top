@@ -9,6 +9,10 @@
     {
       "pattern": "rocketarena.top",
       "custom_domain": true
+    },
+    {
+      "pattern": "www.rocketarena.top",
+      "custom_domain": true
     }
   ]
 }
