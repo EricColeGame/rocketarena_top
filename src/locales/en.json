@@ -1,6 +1,6 @@
 {
   "site": {
-    "name": "rocketarena Wiki",
+    "name": "Rocket Arena Wiki",
     "shortName": "Rocket Arena",
     "tagline": "Heroes, Builds & Guides",
     "description": "Rocket Arena Wiki provides hero guides, gameplay tips, abilities, builds, maps, and competitive strategies to help players master EA's rocket combat arena shooter.",
@@ -16,8 +16,8 @@
   },
   "home": {
     "meta": {
-      "title": "Rocket Arena Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete Rocket Arena guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Rocket Arena Wiki — Heroes, Builds, Maps & Guides",
+      "description": "Complete Rocket Arena wiki with hero guides, combat mechanics, best artifact builds, map overviews, and competitive strategies."
     },
     "hero": {
       "eyebrow": "Hero-Based Rocket Combat Arena Shooter",
@@ -153,7 +153,7 @@
       "modules": [
         {
           "order": 1,
-          "name": "rocketarena Heroes",
+          "name": "Rocket Arena Heroes",
           "description": "Introduce all playable heroes with their unique rockets, abilities, playstyles, and customization options. Discover strengths and tactics for every champion in Crater.",
           "href": "/characters/rocket-arena-heroes",
           "displayType": "card-list",
@@ -186,7 +186,7 @@
         },
         {
           "order": 2,
-          "name": "rocketarena Beginner Guide",
+          "name": "Rocket Arena Beginner Guide",
           "description": "Provide new player guidance covering basic controls, rocket combat mechanics, dodging, movement, aiming, and important beginner strategies.",
           "href": "/guide/rocket-arena-beginner-guide",
           "displayType": "step-by-step",
@@ -219,7 +219,7 @@
         },
         {
           "order": 3,
-          "name": "rocketarena Game Modes",
+          "name": "Rocket Arena Game Modes",
           "description": "Explain each game mode including Knockout, Rocketball, Mega Rocket, Treasure Hunt, and cooperative modes. Include objectives, winning strategies, and recommended team approaches.",
           "href": "/modes/rocket-arena-game",
           "displayType": "card-list",
@@ -248,7 +248,7 @@
         },
         {
           "order": 4,
-          "name": "rocketarena Maps Guide",
+          "name": "Rocket Arena Maps Guide",
           "description": "Showcase arena maps from the world of Crater with map layouts, special mechanics, environmental features, and gameplay tips.",
           "href": "/maps/rocket-arena-maps",
           "displayType": "card-list",
@@ -273,7 +273,7 @@
         },
         {
           "order": 5,
-          "name": "rocketarena Artifacts Guide",
+          "name": "Rocket Arena Artifacts Guide",
           "description": "Cover artifacts, stat boosts, and gameplay-changing equipment choices. Explain how different artifacts affect hero builds and combat strategies.",
           "href": "/items/rocket-arena-item-guide",
           "displayType": "code-cards",
@@ -298,7 +298,7 @@
         },
         {
           "order": 6,
-          "name": "rocketarena Tier List",
+          "name": "Rocket Arena Tier List",
           "description": "Create a community-style hero ranking based on available hero abilities, competitive usefulness, and different game modes.",
           "href": "/characters/rocket-arena-heroes",
           "displayType": "tier-grid",
@@ -323,7 +323,7 @@
         },
         {
           "order": 7,
-          "name": "rocketarena Characters Builds",
+          "name": "Rocket Arena Characters Builds",
           "description": "Provide recommended hero setups including artifacts, playstyles, and strategies for different match situations.",
           "href": "/mechanics/rocket-arena-combat",
           "displayType": "code-cards",
@@ -348,7 +348,7 @@
         },
         {
           "order": 8,
-          "name": "rocketarena Updates And News",
+          "name": "Rocket Arena Updates And News",
           "description": "Collect official announcements, launch information, seasonal content, and important game updates.",
           "href": "/modes/rocket-arena-season-1",
           "displayType": "card-list",

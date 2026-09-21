@@ -1,1 +1,449 @@
-{}
+{
+  "site": {
+    "name": "Rocket Arena Wiki",
+    "shortName": "Rocket Arena",
+    "tagline": "Héroes, Builds y Guías",
+    "description": "La Wiki de Rocket Arena ofrece guías de héroes, consejos de juego, habilidades, builds, mapas y estrategias competitivas para dominar el shooter de arena con cohetes de EA.",
+    "legalNotice": "Wiki no oficial creada por fans. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "guide": "Guía",
+    "characters": "Personajes",
+    "mechanics": "Mecánicas",
+    "maps": "Mapas",
+    "items": "Objetos",
+    "modes": "Modos"
+  },
+  "home": {
+    "meta": {
+      "title": "Rocket Arena Wiki — Héroes, Builds, Mapas y Guías",
+      "description": "Wiki completa de Rocket Arena con guías de héroes, mecánicas de combate, mejores builds de artefactos, mapas y estrategias competitivas."
+    },
+    "hero": {
+      "eyebrow": "Shooter de arena de combate con cohetes basado en héroes",
+      "title": "Rocket Arena Wiki",
+      "description": "Rocket Arena es un vertiginoso shooter de héroes donde los jugadores luchan en arenas explosivas impulsadas por cohetes con campeones únicos, habilidades y modos competitivos.",
+      "stats": [
+        "Más de 10 héroes disponibles",
+        "Arenas de combate de cohetes",
+        "Habilidades y builds",
+        "Estrategias competitivas"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Héroes y builds",
+      "tertiaryCta": "Códigos activos",
+      "videoLabel": "Tráiler oficial"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Explorar todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu aventura en Rocket Arena",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende las mecánicas del medidor de impacto, los saltos con cohetes y la recuperación aérea para sobrevivir a intensos combates."
+        },
+        {
+          "number": "2",
+          "title": "Selección de héroe",
+          "description": "Encuentra al campeón inicial ideal entre Jayto, Amphora y Blastbeard según tu estilo de juego preferido."
+        },
+        {
+          "number": "3",
+          "title": "Combate y medidor de impacto",
+          "description": "Comprende el retroceso progresivo, evita los KOs por Megablast y coordina descargas de equipo de alto daño."
+        },
+        {
+          "number": "4",
+          "title": "Artefactos y equipamiento",
+          "description": "Equipa combinaciones de artefactos competitivos para aumentar la velocidad de movimiento, la recuperación de esquiva y la supervivencia ante KOs."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias actuales",
+      "quickLinks": [
+        "Héroes",
+        "Guía de combate",
+        "Modos de juego",
+        "Artefactos"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Domina la física de proyectiles, medidores de impacto y tácticas de recuperación en Rocket Arena.",
+          "href": "/guide/rocket-arena-beginner-guide"
+        },
+        {
+          "badge": "Combate",
+          "title": "Mecánicas de combate",
+          "description": "Aprende la escala del medidor de impacto, la puntería de impacto directo y recuperaciones aéreas.",
+          "href": "/mechanics/rocket-arena-combat"
+        },
+        {
+          "badge": "Héroes",
+          "title": "Elenco de héroes",
+          "description": "Explora habilidades, estilos de juego y estrategias para Jayto, Blastbeard, Amphora y más.",
+          "href": "/characters/rocket-arena-heroes"
+        },
+        {
+          "badge": "Modos",
+          "title": "Modos de juego",
+          "description": "Reglas y estrategias para ganar en Knockout, Megacohete, Rocketball y Caza del tesoro.",
+          "href": "/modes/rocket-arena-game"
+        },
+        {
+          "badge": "Objetos",
+          "title": "Artefactos y objetos",
+          "description": "Guía completa de objetos tácticos del campo de batalla y configuraciones de artefactos competitivos.",
+          "href": "/items/rocket-arena-item-guide"
+        },
+        {
+          "badge": "Mapas",
+          "title": "Mapas de arena",
+          "description": "Recorre Boom Kingdom, Gemstone Jungle y las arenas de Crater con distribuciones tácticas.",
+          "href": "/maps/rocket-arena-maps"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Rocket Arena?",
+      "paragraphs": [
+        "Rocket Arena es un explosivo shooter de héroes 3c3 desarrollado por Final Strike Games y publicado por Electronic Arts. Ambientado en el vibrante mundo de Crater, los jugadores compiten en batallas de arena a un ritmo trepidante donde las balas tradicionales se sustituyen por un variado arsenal de cohetes, habilidades y mecánicas de movimiento dinámicas.",
+        "En lugar de barras de salud e impactos críticos letales, Rocket Arena cuenta con un sistema progresivo de medidor de impacto inspirado en los brawlers de plataformas. Acumula daño para expulsar a tus rivales fuera de la arena con Megablasts, personaliza a tus campeones con poderosos artefactos y domina modos de juego enfocados en el trabajo en equipo."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Final Strike Games"
+        },
+        {
+          "label": "Distribuidor",
+          "value": "Electronic Arts"
+        },
+        {
+          "label": "Género",
+          "value": "Shooter de héroes 3c3"
+        },
+        {
+          "label": "Plataformas",
+          "value": "PC, PS4, Xbox One"
+        },
+        {
+          "label": "Héroes",
+          "value": "10+"
+        },
+        {
+          "label": "Modos de juego",
+          "value": "5 Modos"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explorar Rocket Arena",
+      "description": "Todo lo que necesitas para dominar héroes, mapas, artefactos y modos de juego en Rocket Arena.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Héroes de Rocket Arena",
+          "description": "Presenta a todos los héroes jugables con sus cohetes únicos, habilidades, estilos de juego y opciones de personalización. Descubre puntos fuertes y tácticas para cada campeón en Crater.",
+          "href": "/characters/rocket-arena-heroes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Jayto",
+              "detail": "Duelista versátil con cohetes teledirigidos, enjambre de cohetes y esquivas rápidas."
+            },
+            {
+              "label": "Blastbeard",
+              "detail": "Especialista en explosivos pesados que causa gran daño de área con balas de cañón y ondas expansivas."
+            },
+            {
+              "label": "Amphora",
+              "detail": "Especialista en control acuático con hidrotorpedos cargados y movilidad vertical superior."
+            },
+            {
+              "label": "Kayi",
+              "detail": "Francotiradora de precisión con proyectiles de hielo perforantes y cúpula protectora de nieve."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía para principiantes de Rocket Arena",
+          "description": "Ofrece orientación a nuevos jugadores sobre controles básicos, mecánicas de combate con cohetes, esquiva, movimiento, puntería y estrategias fundamentales.",
+          "href": "/guide/rocket-arena-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "Paso 1",
+              "detail": "Familiarízate con los saltos con cohetes y el posicionamiento vertical en la arena."
+            },
+            {
+              "label": "Paso 2",
+              "detail": "Vigila el medidor de impacto y esquiva los golpes decisivos de KO enemigos."
+            },
+            {
+              "label": "Paso 3",
+              "detail": "Aprovecha estratégicamente los objetos del campo de batalla como imanes y torretas."
+            },
+            {
+              "label": "Paso 4",
+              "detail": "Coordina fuego concentrado con tus compañeros para eliminaciones rápidas."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Modos de juego de Rocket Arena",
+          "description": "Explica cada modo de juego, incluyendo Knockout, Rocketball, Megacohete, Caza del tesoro y modos cooperativos, con objetivos, estrategias y tácticas de equipo recomendadas.",
+          "href": "/modes/rocket-arena-game",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Knockout",
+              "detail": "Modo clásico de eliminación 3c3 donde los equipos puntúan al expulsar a los rivales de la arena."
+            },
+            {
+              "label": "Rocketball",
+              "detail": "Marca goles llevando o lanzando el balón a la meta del equipo contrario."
+            },
+            {
+              "label": "Megacohete",
+              "detail": "Captura y defiende zonas de aterrizaje de cohetes colosales que caen en la arena."
+            },
+            {
+              "label": "Caza del tesoro",
+              "detail": "Conserva el cofre del tesoro para acumular monedas y recoge las monedas dispersas en la ronda de bonificación."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de mapas de Rocket Arena",
+          "description": "Muestra los mapas de las arenas de Crater con distribuciones, mecánicas especiales, peligros ambientales y consejos de combate.",
+          "href": "/maps/rocket-arena-maps",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Boom Kingdom",
+              "detail": "Arena de castillo urbano con géiseres dinámicos y niveles de combate vertical."
+            },
+            {
+              "label": "Gemstone Jungle",
+              "detail": "Senderos densos de jungla con plataformas de salto y pasillos estrechos para emboscadas."
+            },
+            {
+              "label": "Megadon Plains",
+              "detail": "Valle abierto de cráter con fósiles prehistóricos y amplias líneas de visión."
+            },
+            {
+              "label": "Hypersonic Heights",
+              "detail": "Plataformas flotantes en las nubes que requieren gran precisión de desplazamiento."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de artefactos de Rocket Arena",
+          "description": "Cubre artefactos, mejoras de estadísticas y equipamiento especial. Explica cómo afectan los diferentes artefactos a las builds de los héroes y a las tácticas de combate.",
+          "href": "/items/rocket-arena-item-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Blast Shield",
+              "detail": "Reduce el daño de explosión recibido y la distancia de impacto tras golpes fuertes."
+            },
+            {
+              "label": "Boost Boots",
+              "detail": "Aumenta la altura de salto y la movilidad aérea para esquivas ágiles."
+            },
+            {
+              "label": "Rocket Core",
+              "detail": "Reduce el tiempo de recarga de habilidades primarias y secundarias tras impactos exitosos."
+            },
+            {
+              "label": "Rapid Return",
+              "detail": "Acelera la velocidad de regreso a la arena tras entrar en estado de peligro."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Tier List de Rocket Arena",
+          "description": "Clasificación comunitaria de héroes basada en sus habilidades disponibles, utilidad competitiva y diferentes modos de juego.",
+          "href": "/characters/rocket-arena-heroes",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Amphora, Jayto – Máxima supervivencia, movilidad aérea inigualable y gran daño instantáneo."
+            },
+            {
+              "label": "A",
+              "detail": "Blastbeard, Kayi, Plink – Excepcional control de objetivos, hostigamiento a distancia y rápidas escapadas."
+            },
+            {
+              "label": "B",
+              "detail": "Boone, Topnotch, Izell – Gran control de área e interrupción, pero vulnerables a ataques frontales rápidos."
+            },
+            {
+              "label": "C",
+              "detail": "Mysteen, Rev, Leef – Alto techo de habilidad que exige una sincronización de equipo precisa."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Builds de personajes de Rocket Arena",
+          "description": "Proporciona configuraciones de héroes recomendadas incluyendo artefactos, estilos de juego y tácticas para diversas situaciones de partida.",
+          "href": "/mechanics/rocket-arena-combat",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Duelista",
+              "detail": "Potencia el daño de impacto de cohetes y la reducción de enfriamientos para luchadores ofensivos."
+            },
+            {
+              "label": "Superviviente",
+              "detail": "Combina resistencia a explosiones y esquivas aéreas mejoradas para defensores de objetivos resistentes."
+            },
+            {
+              "label": "Francotirador",
+              "detail": "Maximiza la velocidad de proyectiles y el daño a larga distancia para tiradores como Kayi."
+            },
+            {
+              "label": "Velocista",
+              "detail": "Optimiza la velocidad de esprint y la altura de salto para corredores ágiles en Rocketball como Plink."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Actualizaciones y noticias de Rocket Arena",
+          "description": "Reúne anuncios oficiales, información de lanzamiento, contenido de temporada y actualizaciones clave del juego.",
+          "href": "/modes/rocket-arena-season-1",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Temporada 1",
+              "detail": "Presentó a la heroína Flux, eventos Crater Tour, nuevos mapas y el pase de batalla inaugural."
+            },
+            {
+              "label": "Temporada 2",
+              "detail": "Añadió al héroe Leef, cambios en las listas de héroes, ajustes de equilibrio y nuevos cosméticos."
+            },
+            {
+              "label": "Clasificatorias",
+              "detail": "Lanzamiento de colas competitivas clasificatorias con divisiones y emblemas de temporada exclusivos."
+            },
+            {
+              "label": "Crossplay",
+              "detail": "Compatibilidad total con juego cruzado en PC, PlayStation 4 y Xbox One."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las dudas más comunes sobre mecánicas, héroes y modos de juego de Rocket Arena.",
+      "items": [
+        {
+          "question": "¿Qué es Rocket Arena?",
+          "answer": "Rocket Arena es un shooter de héroes 3c3 desarrollado por Final Strike Games y publicado por Electronic Arts. Los jugadores luchan en llamativas arenas con campeones personalizables y lanzacohetes únicos."
+        },
+        {
+          "question": "¿Cómo funciona el combate en Rocket Arena?",
+          "answer": "Rocket Arena sustituye las barras de vida tradicionales por un medidor de impacto dinámico. Recibir daño llena el medidor y te impulsa más lejos con cada golpe hasta que un impacto crítico causa un Megablast KO."
+        },
+        {
+          "question": "¿Qué héroes son los mejores para principiantes en Rocket Arena?",
+          "answer": "Jayto y Amphora son opciones ideales para principiantes en Rocket Arena gracias a su armamento versátil, habilidades sencillas y fiables herramientas de recuperación aérea."
+        },
+        {
+          "question": "¿Qué modos de juego están disponibles en Rocket Arena?",
+          "answer": "Rocket Arena incluye modos competitivos como Knockout, Megacohete, Rocketball y Caza del tesoro, además del modo cooperativo Ataque de Rocketbots."
+        },
+        {
+          "question": "¿Qué son los artefactos en Rocket Arena?",
+          "answer": "En Rocket Arena, los artefactos son piezas de equipamiento previas a la partida que otorgan ventajas de combate pasivas, como reducción de daño de explosión, mayor velocidad o menor enfriamiento de esquiva."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Rocket Arena?",
+      "description": "Desde tu primer lanzamiento de cohete hasta torneos competitivos, nuestra wiki comunitaria te ofrece guías gratuitas y actualizadas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en EA / Steam"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la Wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas recomendadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "¡No hay guías disponibles todavía! ¡Vuelve pronto!",
+    "playOnEa": "Jugar en EA / Steam"
+  },
+  "footer": {
+    "aboutTitle": "Rocket Arena Wiki",
+    "about": "Rocket Arena Wiki es un centro de guías independiente creado por fans que cubre héroes, habilidades, builds, mapas y estrategias esenciales tanto para novatos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Rocket Arena Wiki. No afiliado con Electronic Arts ni Final Strike Games.",
+    "description": "Shooter de arena de combate con cohetes 3c3 basado en héroes de EA y Final Strike Games.",
+    "playGame": "Jugar a Rocket Arena",
+    "officialDiscord": "Comunidad de EA",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Planificador de builds",
+    "beginnerGuide": "Guía para principiantes",
+    "raceGuides": "Guías de héroes",
+    "bossGuides": "Modos de juego",
+    "buildGuide": "Guía de builds",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  },
+  "guide": {
+    "overviewTitle": "Guías y tutoriales de Rocket Arena",
+    "overviewDescription": "Guías completas de Rocket Arena, tutoriales para principiantes, guías de trofeos y consejos esenciales para dominar la arena."
+  },
+  "characters": {
+    "overviewTitle": "Personajes y héroes de Rocket Arena",
+    "overviewDescription": "Resumen detallado de todos los personajes de Rocket Arena, habilidades de héroes, cohetes principales, habilidades secundarias y estilos de juego."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas y sistemas de juego de Rocket Arena",
+    "overviewDescription": "Desglose exhaustivo de las mecánicas de combate de Rocket Arena, sistema de medidor de impacto, saltos con cohete, esquivas y movimiento competitivo."
+  },
+  "maps": {
+    "overviewTitle": "Mapas y arenas de Rocket Arena",
+    "overviewDescription": "Guía completa de todos los mapas y arenas de Crater en Rocket Arena, con diseños de mapas, zonas de peligro y posicionamiento táctico."
+  },
+  "items": {
+    "overviewTitle": "Objetos y artefactos de Rocket Arena",
+    "overviewDescription": "Guía completa de objetos recolectables de Rocket Arena, artefactos para mejorar estadísticas, equipamientos y sinergias óptimas."
+  },
+  "modes": {
+    "overviewTitle": "Modos de juego de Rocket Arena",
+    "overviewDescription": "Guía de los modos competitivos y casuales de Rocket Arena, incluidos Knockout, Rocketball, Megacohete y Caza del tesoro."
+  }
+}
