@@ -6,7 +6,14 @@
     "description": "Rocket Arena Wiki provides hero guides, gameplay tips, abilities, builds, maps, and competitive strategies to help players master EA's rocket combat arena shooter.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "characters": "Characters",
+    "mechanics": "Mechanics",
+    "maps": "Maps",
+    "items": "Items",
+    "modes": "Modes"
+  },
   "home": {
     "meta": {
       "title": "Rocket Arena Wiki — Codes, Recipes, Upgrades & Guides",
@@ -399,7 +406,6 @@
       "secondary": "Play on EA / Steam"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -435,5 +441,29 @@
     "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Rocket Arena Guides & Walkthroughs",
+    "overviewDescription": "Comprehensive Rocket Arena guides, beginner tutorials, trophy walkthroughs, and essential tips to master the arena."
+  },
+  "characters": {
+    "overviewTitle": "Rocket Arena Characters & Heroes",
+    "overviewDescription": "Detailed overview of all Rocket Arena characters, hero abilities, primary rockets, secondary skills, and playstyles."
+  },
+  "mechanics": {
+    "overviewTitle": "Rocket Arena Mechanics & Gameplay Systems",
+    "overviewDescription": "In-depth breakdown of Rocket Arena combat mechanics, the Blast Meter system, rocket jumping, dodging, and competitive movement."
+  },
+  "maps": {
+    "overviewTitle": "Rocket Arena Maps & Arenas",
+    "overviewDescription": "Complete guide to all Crater maps and arenas in Rocket Arena, featuring map layouts, hazard zones, and tactical positioning."
+  },
+  "items": {
+    "overviewTitle": "Rocket Arena Items & Artifacts",
+    "overviewDescription": "Full guide to Rocket Arena pickup items, stat-boosting artifacts, loadouts, and optimal item synergy strategies."
+  },
+  "modes": {
+    "overviewTitle": "Rocket Arena Game Modes",
+    "overviewDescription": "Guide to competitive and casual Rocket Arena modes including Knockout, Rocketball, Mega Rocket, and Treasure Chase."
   }
 }
